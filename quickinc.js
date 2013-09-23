@@ -13,7 +13,7 @@
  * @package QuickInc_Async_Loader
  * @version 1.0.0
  * @author James D. Lucas Jr.
- * @link 
+ * @link https://github.com/anderos/quickinc
  */
 
 
